@@ -1,0 +1,11 @@
+Name = soulmate;
+Version = 0.1;
+Author = "Alan Wu";
+
+Date = 2017-11-27;
+
+U"J" : U"LEFT";
+U"K" : U"DOWN";
+U"L" : U"UP";
+U";" : U"RIGHT";
+

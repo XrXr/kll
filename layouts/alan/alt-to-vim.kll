@@ -1,0 +1,12 @@
+Name = soulmate;
+Version = 0.1;
+Author = "Alan Wu";
+
+Date = 2017-11-01;
+
+# left alt+home row remapping
+U"LALT" + U"J" : U"LALT"(R), U"LEFT";
+U"LALT" + U"K" : U"DOWN";
+U"LALT" + U"L" : U"UP";
+U"LALT" + U";" : U"RIGHT";
+
